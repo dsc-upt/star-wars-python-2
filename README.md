@@ -12,4 +12,4 @@
 
 * ```cd "Numele Vostru"``` (Windows) or ```cd Numele\ Vostru```(Linux)
 
-* ```python main.py```
+* ```python main.py``` sau ```python3 main.py```
