@@ -1,5 +1,9 @@
 from getpass import getpass
 
+import yagmail
+
+
+
 def main():
     username = "dontuandreiraul@gmail.com"
     password = getpass()
