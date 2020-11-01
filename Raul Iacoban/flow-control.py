@@ -1,12 +1,5 @@
 import json
-
-#print ("hello world")
-"""
-things= (1,2,3)
-fixed_things = tuple(things)
-fixed_things[1]=0
-print(fixed_things)
-"""
+#from json import dumps
 
 laptops = {
     "HP": "4 ram",
@@ -17,4 +10,9 @@ laptops = {
 laptops.update({"Lenovo": 3})
 print(json.dumps(laptops, indent=1))
 
-#print(laptops)
+for key, value in laptops.items():
+    print(key)
+    print(value)
+
+for key in laptops.keys():
+    print(key)
