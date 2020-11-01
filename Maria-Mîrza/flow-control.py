@@ -1,4 +1,3 @@
-
 laptops = {
     "HP": "4 ram",
     "Apple": 5,
@@ -8,15 +7,17 @@ laptops = {
     "cats": ['56', 56],
     "dictionary": {
         "cats": 56,
-         'Pull': 'Request'
-    },
-    "another": "altcv"
+        'Pull': 'Request',
+        "another": {
+            45: 555
+        }
+    }
 }
 
 from json import dumps
 
 print(dumps(laptops, indent=4))
-""" 
+
 for key, value in laptops.items():
     print(key)
     print(value)
@@ -24,23 +25,21 @@ for key, value in laptops.items():
 for key in laptops.keys():
     print(key)
 
-for value in laptops.values():
-    print(value)
-    
-"""
-"""
+print("--------------------------")
+
 for value in laptops.values():
     if type(value) is dict:
         print(dumps(value, indent=4))
         continue
+
     if type(value) is list:
         for item in value:
             print(item)
-        continue
+        break
 
     print(value)
- """
+
 count = 0
 while count < 5:
     print(count)
-    count+=1
+    count += 1
