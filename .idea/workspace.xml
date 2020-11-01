@@ -20,9 +20,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="845bfa78-a4b0-418c-9df4-f1507edd9396" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Rares Matei/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rares Matei/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="845bfa78-a4b0-418c-9df4-f1507edd9396" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604247013906</updated>
-      <workItem from="1604247014986" duration="841000" />
+      <workItem from="1604247014986" duration="1250000" />
     </task>
     <servers />
   </component>
