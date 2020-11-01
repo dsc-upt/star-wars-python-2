@@ -2,7 +2,7 @@
 
 * Clone this repository
 
-* Make a folder with your name
+* Make a folder with your name like this: ```your-name```
 
 * Create a file named main.py
 
@@ -10,6 +10,6 @@
 
 * Push your changes to GitHub
 
-* ```cd "Numele Vostru"``` (Windows) or ```cd Numele\ Vostru```(Linux)
+* ```cd your-name```
 
 * ```python main.py``` sau ```python3 main.py```
