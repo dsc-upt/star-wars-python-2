@@ -27,7 +27,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="data-types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="star-wars-python-2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +39,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Androne Tudor/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Tudor\Desktop\GITKRAKEN\star-wars-python-2\Androne Tudor\data-types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +50,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.data-types" />
       </list>
     </recent_temporary>
   </component>
@@ -64,5 +64,23 @@
       <updated>1604247087686</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1365" height="233" key="GridCell.Tab.0.bottom" timestamp="1604249959203">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1365" height="233" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1604249959203" />
+    <state width="1365" height="233" key="GridCell.Tab.0.center" timestamp="1604249959203">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1365" height="233" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1604249959203" />
+    <state width="1365" height="233" key="GridCell.Tab.0.left" timestamp="1604249959203">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1365" height="233" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1604249959203" />
+    <state width="1365" height="233" key="GridCell.Tab.0.right" timestamp="1604249959203">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1365" height="233" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1604249959203" />
   </component>
 </project>
